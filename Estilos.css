@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background:#000000
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	min-height: 100vh;
+}
+#B1{
+	color: #FFFFFF;
+	box-shadow: 4px 4px 4px #FF9600;
+	font-size: 5rem;
+	cursor: pointer;
+	
+}
+#B2{
+	color: #FFFFFF;
+	box-shadow: 4px 4px 4px #FF9600;
+	font-size: 5rem;
+	cursor: pointer;
+}
+#B3{
+	color: #FFFFFF;
+	box-shadow: 4px 4px 4px #FF9600;
+	font-size: 5rem;
+	cursor: pointer;
+}
